@@ -1,0 +1,72 @@
+export default [
+    {
+        id: "00001",
+        image: "https://images.unsplash.com/photo-1504497046736-6ef4df270f4f?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1470&q=80",
+        category: "sport",
+        title: "Olles SUP",
+        price: "300",
+        location: "Gröndal",
+        description: "Det här är en jättefin SUP som du kan ha mycket skoj med. Padla en tur och få en snygg solbränna!",
+        priceOne: "300",
+        priceTwo: "500",
+        priceFive: "1000",
+        renter: "Olle",
+        profilePicture: "https://icon-library.com/images/default-user-icon/default-user-icon-13.jpg"
+    },
+    {
+        id: "00002",
+        image: "https://images.unsplash.com/photo-1571333250630-f0230c320b6d?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1470&q=80",
+        category: "sport",
+        title: "Jons Cykel",
+        price: "200",
+        location: "Spånga",
+        description: "Jag älskar denna cykel. Kommer aldrig älska en cykel på samma sätt igen",
+        priceOne: "200",
+        priceTwo: "300",
+        priceFive: "800",
+        renter: "Jon",
+        profilePicture: "https://icon-library.com/images/default-user-icon/default-user-icon-13.jpg"
+    },
+    {
+        id: "0003",
+        image: "https://images.unsplash.com/photo-1580403444499-062473f715d5?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1471&q=80",
+        category: "tools",
+        title: "Peters Skruvmejsel",
+        price: "100",
+        location: "Spånga",
+        description: "Denna skruvmejsel har hjälpt mig många regniga dagar",
+        priceOne: "100",
+        priceTwo: "200",
+        priceFive: "500",
+        renter: "Peter",
+        profilePicture: "https://icon-library.com/images/default-user-icon/default-user-icon-13.jpg"
+    },
+    {
+        id: "00004",
+        image: "https://images.unsplash.com/photo-1586864387967-d02ef85d93e8?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1470&q=80",
+        category: "tools",
+        title: "Ebbas Hammare",
+        price: "100",
+        location: "Spånga",
+        description: "Om du vill ha en hammare som gör sitt jobb så har du kommit rätt",
+        priceOne: "100",
+        priceTwo: "200",
+        priceFive: "500",
+        renter: "Ebba",
+        profilePicture: "https://icon-library.com/images/default-user-icon/default-user-icon-13.jpg"
+    },
+    
+]
+{/* 
+    id: "0000",
+    image: "",
+    category: "",
+    title: "",
+    price: "",
+    location: "",
+    description: "",
+    priceOne: "",
+    priceTwo: "",
+    priceFive: "",
+    Renter: "",
+*/}
