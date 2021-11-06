@@ -2,6 +2,11 @@
 
 This is an app for people to rent out their belongings to others, with an optional delivery service.
 
+# View
+
+https://expo.dev/@rottweileriana/splendid-react-native
+This app currently only works with android.
+
 # Why?
 
 This was an assignment for KYH Stockholm FE20. The students developed their own app on the theme sustainability, in this case it is on the premise to make it easier for people to rent things they need for a short time instead of buying new stuff and to give those who already have something that they don't need to use all the time an alternative to stashing it were no one uses it.

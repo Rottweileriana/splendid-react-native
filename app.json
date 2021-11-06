@@ -23,10 +23,12 @@
       "adaptiveIcon": {
         "foregroundImage": "./src/assets/images/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
-      }
+      },
+      "package": "com.rottweileriana.splendidreactnative"
     },
     "web": {
       "favicon": "./src/assets/images/favicon.png"
-    }
+    },
+    "description": "School project for KYH Stockholm FE20"
   }
 }

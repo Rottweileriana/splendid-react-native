@@ -137,7 +137,7 @@ const NewPost = (props) => {
                     </Text>
                     <Pressable style = { styles.deliveryTextLinkContainer }>
                         <Text style = { styles.deliveryTextLink }>
-                            Läs om vår leveransprocess -> 
+                            Läs om vår leveransprocess -{">"} 
                         </Text>
                         <Image 
                             source = {{ uri: "https://previews.123rf.com/images/yevgenijd/yevgenijd1708/yevgenijd170800003/83237779-ecology-logo-eco-world-symbol-icon-eco-friendly-concept-for-company-logo-vector.jpg" }}
