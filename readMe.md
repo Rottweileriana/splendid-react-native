@@ -1,4 +1,4 @@
-# Welcome to Splendid
+# Welcome to Splendid by Rebecka Åberg
 
 This is an app for people to rent out their belongings to others, with an optional delivery service.
 
