@@ -5,6 +5,8 @@ This is an app for people to rent out their belongings to others, with an option
 # View
 
 https://expo.dev/@rottweileriana/splendid-react-native
+Or you can download the repo and make sure you have expo installed.
+npm install -g expo-cli
 This app currently only works with android.
 
 # Why?
